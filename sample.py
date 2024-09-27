@@ -1,1 +1,1 @@
-print("This is the sample for the merge conflict")
+print("This are the most recent changes from the master branch")
