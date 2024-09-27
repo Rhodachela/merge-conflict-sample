@@ -1,0 +1,1 @@
+print("This is the sample for the merge conflict")
